@@ -1,6 +1,6 @@
 # govtest
 
-**Creating IAM ID inside AWS
+Creating IAM ID inside AWS
 
 Go to AWS IAM to create a user with programatic access to S3.
 
